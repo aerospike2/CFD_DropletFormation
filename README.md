@@ -1,6 +1,6 @@
 # CFD_DropletFormation
 
-This code simulates droplet formation from a symmetric T-Junction using OpenFOAM (ver 1.7.1). It used interFOAM solver 
+This code simulates droplet formation from a symmetric T-Junction using OpenFOAM (ver 1.7.1). It uses interFOAM solver 
 which works on VoF method.
 
 To run simulation,
