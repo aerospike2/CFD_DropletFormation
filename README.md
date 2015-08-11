@@ -5,5 +5,5 @@ which works on VoF method.
 
 To run simulation,
 
--> decomposePar
+-> decomposePar <br />
 -> mpirun -np 4 interFoam -parallel
